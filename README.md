@@ -36,6 +36,6 @@ Telco customer churn data includes information about a fictitious telecom compan
 
 Each row represents a unique customer.
 Variables include information about customer service, account, and demographics.
-Services customers sign up for - phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-Customer account information – how long they have been a customer, contract, payment method, paperless invoicing, monthly fees and total fees
-Demographics about customers - gender, age range, and whether they have partners and dependents
+Services customers sign up for - phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+Customer account information – how long they have been a customer, contract, payment method, paperless billing, monthly fees and total fees.
+Demographic information about customers - gender, age range, and whether they have partners and dependents.
